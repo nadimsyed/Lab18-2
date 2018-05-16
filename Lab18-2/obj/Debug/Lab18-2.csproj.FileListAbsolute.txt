@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\bin\Debug\Lab18-2.exe.config
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\bin\Debug\Lab18-2.exe
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\bin\Debug\Lab18-2.pdb
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\obj\Debug\Lab18-2.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\obj\Debug\Lab18-2.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\obj\Debug\Lab18-2.exe
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab18-2\Lab18-2\obj\Debug\Lab18-2.pdb
